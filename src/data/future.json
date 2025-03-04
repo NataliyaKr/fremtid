@@ -1,0 +1,31 @@
+[{
+    "id": "0",
+    "title":"Fremtiden for trådløs kommunikation.",
+    "text":"Den sjette generation af mobilkommunikation (6G) vil være det næste skridt i udviklingen af trådløse teknologier efter 5G. Det forventes, at 6G vil give endnu højere datahastigheder, minimale forsinkelser og intelligent netværksstyring, hvilket vil muliggøre integration af avancerede teknologier såsom kunstig intelligens, Internet of Things (IoT) og udvidet virkelighed.",
+    "image":
+},
+{
+    "id": "1",
+    "title":"Udviklingen af mobilkommunikation.",
+    "text":"Siden introduktionen af 1G i 1980'erne har hver generation af mobilkommunikation bragt væsentlige ændringer. 2G muliggjorde tekstbeskeder, 3G introducerede mobil internet, 4G gjorde streaming af video muligt, og 5G øgede hastigheden og reducerede forsinkelser. 6G vil fortsætte denne udvikling og åbne nye digitale muligheder.",
+    "image":
+},
+{
+    "id": "2",
+    "title":"Hovedkarakteristika ved 6G",
+    "text":,
+    "image":
+},
+{
+    "id": "3",
+    "title":"Potentielle anvendelser af 6G",
+    "text":,
+    "image":
+},
+{
+    "id": "4",
+    "title":"Udfordringer og fremtidsperspektiver",
+    "text":"På trods af de store muligheder kræver 6G-teknologi nye tilgange til netværksinfrastruktur, energieffektive løsninger og sikkerhedsprotokoller. Det er også vigtigt at løse spørgsmål vedrørende adgang til højfrekvensspektret og udvikling af kompatible enheder.",
+    "image":
+}
+]

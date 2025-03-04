@@ -20,7 +20,19 @@ const Navigation = () => {
           <NavLink to="/">Forside</NavLink>
         </li>
         <li>
-          <NavLink to="/about">Om 6G</NavLink>
+          <NavLink to="/future">Fremtid</NavLink>
+        </li>
+        <li>
+          <NavLink to="/development">Udvikling</NavLink>
+        </li>
+        <li>
+          <NavLink to="/characteristic">Karakteristika</NavLink>
+        </li>
+        <li>
+          <NavLink to="/application">Anvendelse</NavLink>
+        </li>
+        <li>
+          <NavLink to="/perspectives">Perspektiver</NavLink>
         </li>
       </ul>
     </nav>
