@@ -17,10 +17,7 @@ const Navigation = () => {
       </div>
       <ul className={isOpen ? "nav-links open" : "nav-links"}>
         <li>
-          <NavLink to="/">Forside</NavLink>
-        </li>
-        <li>
-          <NavLink to="/future">Fremtid</NavLink>
+          <NavLink to="/">Hvad er 6G?</NavLink>
         </li>
         <li>
           <NavLink to="/development">Udvikling</NavLink>
@@ -29,7 +26,7 @@ const Navigation = () => {
           <NavLink to="/characteristic">Karakteristika</NavLink>
         </li>
         <li>
-          <NavLink to="/application">Anvendelse</NavLink>
+          <NavLink to="/application">Anvendelser</NavLink>
         </li>
         <li>
           <NavLink to="/perspectives">Perspektiver</NavLink>

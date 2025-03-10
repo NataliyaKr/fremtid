@@ -4,13 +4,16 @@
   align-items: center;
   position: relative;
   padding: 1rem;
-  background-color: #579fd9;
+  background-color: #080b59;
+}
+p {
+  color: white;
 }
 
 .burger-menu {
   cursor: pointer;
   font-size: 2rem;
-  color: aliceblue;
+  color: #dde7f6;
 }
 
 .nav-links {
@@ -24,7 +27,7 @@
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: rgb(138, 201, 201);
+  background-color: #080b59;
 
   &.open {
     display: flex;
@@ -36,13 +39,13 @@
 
     a {
       text-decoration: none;
-      color: #333;
+      color: #dde7f6;
       transition: color 0.3s;
       position: relative;
       display: block;
 
       &:hover {
-        color: #ffffff;
+        color: #c041b3;
       }
 
       &:after {
@@ -65,7 +68,7 @@
     }
   }
   .active {
-    color: #ffffff;
+    color: #00b4d8;
   }
 }
 
@@ -86,7 +89,7 @@
       margin: 0 1rem;
 
       a {
-        color: rgb(0, 0, 0);
+        color: #dde7f6;
       }
     }
   }

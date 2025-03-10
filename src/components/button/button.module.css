@@ -1,0 +1,18 @@
+.button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #080b59;
+  color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+}
+.button:hover {
+  background-color: #c041b3;
+  transform: translateY(-2px);
+}
+.active {
+  background-color: #00b4d8;
+  transform: translateY(0);
+}

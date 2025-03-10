@@ -1,0 +1,51 @@
+.devContainer {
+  padding: 70px 0 120px 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.devFigure {
+  max-width: 600px;
+  padding: 20px;
+  margin: 0 auto;
+  align-items: center;
+  /* background-color: rgba(255, 255, 255, 0.1); */
+  background-color: #dde7f6;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: rgba(0, 180, 216, 0.4) -5px 5px, rgba(0, 180, 216, 0.3) -10px 10px,
+    rgba(0, 180, 216, 0.2) -15px 15px, rgba(0, 180, 216, 0.1) -20px 20px,
+    rgba(0, 180, 216, 0.05) -25px 25px;
+}
+
+.devFigcaption {
+  font-size: 16px;
+  text-align: center;
+  padding: 20px;
+  margin: 0 auto;
+}
+h2 {
+  margin-bottom: 10px;
+}
+
+.videoWrapper {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.devVideo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 728px) {
+}

@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
-  padding: 100px;
-  background-color: #579fd9;
+  padding: 30px;
+  background-color: #080b59;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -17,16 +17,16 @@
 .footerLinks {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 10px;
 }
 .footerLinks a {
   color: white;
-  font-size: 20px;
+  font-size: 16px;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 .footerLinks a:hover {
-  color: #000000;
+  color: #c041b3;
   text-decoration: underline;
 }
 .footerIcons {
@@ -36,7 +36,7 @@
   margin-top: 16px;
 }
 .footerIcons a {
-  color: #f47543;
+  color: #c041b3;
   font-size: 30px;
   transition: color 0.3s ease;
 }
