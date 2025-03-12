@@ -10,6 +10,10 @@ const SectionDev = () => {
         <figure className={styles.devFigure}>
           <figcaption className={styles.devFigcaption}>
             <h2>Udviklingen af mobilkommunikation.</h2>
+            <p>
+              6G forventes at blive implementeret i 2030 med massive
+              forandringer i den digitale verden.
+            </p>
             <Link to="/development">
               <Button buttonText="Se mere" />
             </Link>

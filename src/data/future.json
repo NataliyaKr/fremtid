@@ -1,31 +1,48 @@
-[{
+ [{
     "id": "0",
-    "title":"Fremtiden for trådløs kommunikation.",
-    "text":"Den sjette generation af mobilkommunikation (6G) vil være det næste skridt i udviklingen af trådløse teknologier efter 5G. Det forventes, at 6G vil give endnu højere datahastigheder, minimale forsinkelser og intelligent netværksstyring, hvilket vil muliggøre integration af avancerede teknologier såsom kunstig intelligens, Internet of Things (IoT) og udvidet virkelighed.",
-    "image":
+    "title":"Internet 6G: Fremtiden for trådløs kommunikation.",
+    "description":"Den sjette generation af mobilkommunikation (6G) vil være det næste skridt i udviklingen af trådløse teknologier efter 5G. Det forventes, at 6G vil give endnu højere datahastigheder, minimale forsinkelser og intelligent netværksstyring, hvilket vil muliggøre integration af avancerede teknologier såsom kunstig intelligens, Internet of Things (IoT) og udvidet virkelighed.",
+    "description1":"Selvom mange virksomheder stadig opererer i traditionelle kontorlokaler, vender flere og flere sig til virtuelle muligheder og arbejder hjemmefra. Efterhånden som antallet af fjernplaceringer og kommunikation stiger, bliver en pålidelig og hurtig internetforbindelse mere og mere vigtig.
+6G-teknologi tiltrækker hurtigt opmærksomhed fra mennesker over hele verden.",
+    "global_competition": "Kæmper verdens supermagter om, hvem der først kan stå klar med det næste store skridt, 6G-netværket.
+EU samarbejder med USA gennem Handels- og Teknologirådet (TTC) og vedtog 6G-perspektiverne, der fastlægger vejledende principper for denne næste generation af kommunikationsteknologier.
+",
+    "image":"../assets/images/future-6G.jpg"
 },
 {
     "id": "1",
     "title":"Udviklingen af mobilkommunikation.",
-    "text":"Siden introduktionen af 1G i 1980'erne har hver generation af mobilkommunikation bragt væsentlige ændringer. 2G muliggjorde tekstbeskeder, 3G introducerede mobil internet, 4G gjorde streaming af video muligt, og 5G øgede hastigheden og reducerede forsinkelser. 6G vil fortsætte denne udvikling og åbne nye digitale muligheder.",
-    "image":
+    "description":"Siden introduktionen af 1G i 1980'erne har hver generation af mobilkommunikation bragt væsentlige ændringer. 2G muliggjorde tekstbeskeder, 3G introducerede mobil internet, 4G gjorde streaming af video muligt, og 5G øgede hastigheden og reducerede forsinkelser. 6G vil fortsætte denne udvikling og åbne nye digitale muligheder.",
+    "description1": "Europa-Kommissionen arbejder på at forberede Europa på 6G og sikre, at vi er klar til næste generation af kommunikation.
+Efterhånden som flere og flere af os får adgang til den digitale verden og genererer flere og flere data, har Europa brug for en digital infrastruktur til at understøtte dette. Det er her, hvor 6G kommer ind, som vi kunne se i implementering inden 2030. 6G vil indlede en ny æra, hvor mennesker og forbundne køretøjer, robotter og droner genererer Zettabytes af information. Det vil skabe omfattende og problemfri konnektivitet og udvide integreret sensing og kommunikation samt kunstig intelligens.6G har potentiale til at samle områder som konnektivitet, robotteknologi, cloud og sikker og pålidelig handel. Det vil give os mulighed for at udvikle mere udfordrende applikationer, såsom:
+Virtual Reality og Augmented Reality
+hologrammer
+fjernkirurgi
+Digitale tvillinger af virkelige objekter
+Udvidet virkelighedssensing (Internet of Senses)
+selvkørende køretøjer",
+    "image":"../assets/images/img3.jpg"
 },
 {
     "id": "2",
     "title":"Hovedkarakteristika ved 6G",
-    "text":,
-    "image":
+    "description":"Utrolig hastighed: Forventet datahastighed i 6G kan nå op til 1 Tbps, hvilket er 100 gange hurtigere end 5G.
+Lav forsinkelse: Netværksforsinkelser i 6G kan være under 1 millisekund, hvilket muliggør øjeblikkelig respons i realtid.
+Kunstig intelligens i netværket: AI vil optimere spektrumanvendelse og trafikstyring for mere effektiv drift.
+IoT på et nyt niveau: 6G vil muliggøre tilslutning af billioner af enheder med minimalt energiforbrug.
+Brug af terahertz-spektret: For at opnå ultrahurtige hastigheder vil 6G benytte frekvenser fra 100 GHz til 1 THz."
 },
 {
     "id": "3",
     "title":"Potentielle anvendelser af 6G",
-    "text":,
-    "image":
+    "description":"Sundhedssektoren
+6G vil gøre det muligt at udføre fjernoperationer med minimal forsinkelse og sikre kontinuerlig patientovervågning via IoT-sensorer. Kunstig intelligens vil hjælpe med at opdage sygdomme i de tidlige stadier. Derudover vil 6G understøtte en ny generation af medicinske enheder, der kan tilpasse sig patientens behov i realtid.
+",
+    "image":"../assets/images/fiona1.jpg"
 },
 {
     "id": "4",
     "title":"Udfordringer og fremtidsperspektiver",
-    "text":"På trods af de store muligheder kræver 6G-teknologi nye tilgange til netværksinfrastruktur, energieffektive løsninger og sikkerhedsprotokoller. Det er også vigtigt at løse spørgsmål vedrørende adgang til højfrekvensspektret og udvikling af kompatible enheder.",
-    "image":
+    "description":"På trods af de store muligheder kræver 6G-teknologi nye tilgange til netværksinfrastruktur, energieffektive løsninger og sikkerhedsprotokoller. Det er også vigtigt at løse spørgsmål vedrørende adgang til højfrekvensspektret og udvikling af kompatible enheder."
 }
 ]

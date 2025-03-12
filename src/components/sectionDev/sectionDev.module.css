@@ -6,12 +6,12 @@
 }
 
 .devFigure {
-  max-width: 600px;
+  width: 600px;
   padding: 20px;
   margin: 0 auto;
   align-items: center;
-  /* background-color: rgba(255, 255, 255, 0.1); */
-  background-color: #dde7f6;
+  background-color: rgba(255, 255, 255, 0.1);
+  /* background-color: #dde7f6; */
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -47,5 +47,5 @@ h2 {
   object-fit: cover;
 }
 
-@media (min-width: 728px) {
+@media (max-width: 500px) {
 }

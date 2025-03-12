@@ -8,6 +8,9 @@ const SecUse = () => {
       <figure className={styles.devFigure}>
         <figcaption className={styles.devFigcaption}>
           <h2 className={styles.useTitle}>Potentielle anvendelser af 6G</h2>
+          <p>
+            6G vil revolutionere sundhed, transport og det intelligente hjem.
+          </p>
           <Link to="/perspectives">
             <Button buttonText="Se mere" />
           </Link>

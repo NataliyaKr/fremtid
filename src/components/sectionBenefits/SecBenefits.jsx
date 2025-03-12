@@ -8,6 +8,11 @@ const SecBenefits = () => {
       <figure className={styles.devFigure}>
         <figcaption className={styles.devFigcaption}>
           <h2 className={styles.benTitle}>Hovedkarakteristika ved 6G</h2>
+          <ul>
+            <li>Hastigheder op til 100 gange hurtigere end 5G.</li>
+            <li>Ultra-lav latenstid til realtidskommunikation.</li>
+            <li>Forbedret energieffektivitet og AI-integration.</li>
+          </ul>
           <Link to="/perspectives">
             <Button buttonText="Se mere" />
           </Link>
